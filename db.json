@@ -1,19 +1,16 @@
 {
   "models": [
     {
-      "id":1,
-      "name":"model1",
-      "desc": "model1 desc"
+      "id": 1,
+      "title": "model 1"
     },
     {
       "id": 2,
-      "name":"model2",
-      "desc": "model2 desc"
+      "title": "model 2"
     },
     {
       "id": 3,
-      "name":"model3",
-      "desc": "model3 desc"
+      "title": "model 3"
     }
   ],
   "profile": {
