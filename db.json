@@ -1,14 +1,7 @@
-[
-  {
-    "id": 1,
-    "title": "model1"
-  },
-  {
-    "id": 2,
-    "title": "model 2"
-  },
-  {
-    "id": 3,
-    "title": "model 3"
-  }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ]
+}
