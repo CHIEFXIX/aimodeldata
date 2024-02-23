@@ -75,7 +75,7 @@
     {
       "id": 13,
       "title": "Capsule Networks",
-      "desc":"Capsule Networks, proposed by Geoffrey Hinton and his team, are a type of neural network architecture designed to better model hierarchical relationships in data. Unlike traditional neural networks, capsule networks use capsules to represent entities and their various properties, enabling more robust feature learning and better generalization. Capsule networks show promise in tasks such as object recognition and image reconstruction.",
+      "desc":"Capsule Networks, proposed by Geoffrey Hinton and his team, are a type of neural network architecture designed to better model hierarchical relationships in data. Unlike traditional neural networks, capsule networks use capsules to represent entities and their various properties, enabling more robust feature learning and better generalization.",
       "bgimage":"https://8f430952.rocketcdn.me/wp-content/uploads/2020/07/Rohit-2020-07-27.jpg"
     },
     {
@@ -87,7 +87,7 @@
     {
       "id": 15,
       "title": "BERT-based Question Answering",
-      "desc":"Leveraging BERT's language understanding capabilities, BERT-based question answering models can provide accurate answers to natural language questions given a context. These models are fine-tuned on question-answer pairs and utilize BERT's ability to encode contextual information to locate relevant passages and extract answers. They have applications in information retrieval, virtual assistants, and search engines",
+      "desc":"Leveraging BERT's language understanding capabilities, BERT-based question answering models can provide accurate answers to natural language questions given a context. These models are fine-tuned on question-answer pairs and utilize BERT's ability to encode contextual information to locate relevant passages and extract answers.",
       "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
@@ -99,25 +99,25 @@
     {
       "id": 17,
       "title": "BERT-based Named Entity Recognition (NER)",
-      "desc":"BERT-based NER models aim to identify and classify named entities such as names, organizations, and locations in text data. By fine-tuning BERT on annotated NER datasets, these models learn to recognize entities and their types within the context of a given sentence. BERT's contextual embeddings enable more accurate and context-aware entity recognition, benefiting applications like information extraction and text understanding.",
+      "desc":"BERT-based NER models aim to identify and classify named entities such as names, organizations, and locations in text data. By fine-tuning BERT on annotated NER datasets, these models learn to recognize entities and their types within the context of a given sentence. ",
       "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
       "id": 18,
       "title": "VQ-VAE (Vector Quantized Variational Autoencoder)",
-      "desc":"VQ-VAE is a generative model architecture that combines elements of variational autoencoders (VAEs) and vector quantization. It learns to encode input data into discrete latent representations, which are then decoded back into the original data space. VQ-VAE has been used for tasks such as image generation, speech synthesis, and data compression, offering improved sample quality and compression efficiency compared to traditional autoencoders.",
+      "desc":"VQ-VAE is a generative model architecture that combines elements of variational autoencoders (VAEs) and vector quantization. It learns to encode input data into discrete latent representations, which are then decoded back into the original data space. .",
       "bgimage":"https://crayondata.ai/wp-content/uploads/2023/12/MicrosoftTeams-image-107.jpg"
     },
     {
       "id": 19,
       "title": "SqueezeNet",
-      "desc":"SqueezeNet is a lightweight convolutional neural network architecture designed for efficient inference on resource-constrained devices such as mobile phones and embedded systems. It achieves a balance between model size and accuracy by employing various compression techniques, including aggressive downsampling and 1x1 convolutions. SqueezeNet is widely used in applications requiring real-time image analysis and classification on edge devices.",
+      "desc":"SqueezeNet is a lightweight convolutional neural network architecture designed for efficient inference on resource-constrained devices such as mobile phones and embedded systems. It achieves a balance between model size and accuracy by employing various compression techniques, including aggressive downsampling and 1x1 convolutions.",
       "bgimage":"https://idiotdeveloper.com/wp-content/uploads/2021/12/Squeeze-Excitation-Network.png"
     },
     {
       "id": 20,
       "title": "BERT-based Sentiment Analysis",
-      "desc":"BERT-based sentiment analysis models aim to classify the sentiment expressed in textual content as positive, negative, or neutral. By fine-tuning BERT on sentiment-labeled datasets, these models learn to capture the nuanced relationships between words and their contextual polarity. BERT's contextual embeddings enable more accurate sentiment analysis across diverse domains, benefiting applications like social media monitoring, customer feedback analysis, and market research.",
+      "desc":"BERT-based sentiment analysis models aim to classify the sentiment expressed in textual content as positive, negative, or neutral. By fine-tuning BERT on sentiment-labeled datasets, these models learn to capture the nuanced relationships between words and their contextual polarity.",
       "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     }
   ],
