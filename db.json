@@ -1,14 +1,14 @@
 [
   {
-    "name":"model1",
-    "desc":"model1 desc"
+    "id": 1,
+    "title": "model1"
   },
   {
-    "name":"model2",
-    "desc":"model2 desc"
+    "id": 2,
+    "title": "model 2"
   },
   {
-    "name":"model3",
-    "desc":"model3 desc"
+    "id": 3,
+    "title": "model 3"
   }
 ]
