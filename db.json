@@ -3,102 +3,122 @@
     {
       "id": 1,
       "title": "BERT (Bidirectional Encoder Representations from Transformers)",
-      "desc":"BERT is a transformer-based model developed by Google for natural language processing tasks. It is pre-trained on large text corpora using a bidirectional approach, enabling it to understand the context of words better. BERT has been widely adopted for tasks such as text classification, question answering, and named entity recognition."
+      "desc":"BERT is a transformer-based model developed by Google for natural language processing tasks. It is pre-trained on large text corpora using a bidirectional approach, enabling it to understand the context of words better. BERT has been widely adopted for tasks such as text classification, question answering, and named entity recognition.",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
       "id": 2,
       "title": "GPT (Generative Pre-trained Transformer)",
-      "desc":"Developed by OpenAI, GPT is a series of transformer-based models capable of generating human-like text. By pre-training on vast amounts of text data, GPT learns to predict the next word in a sequence, allowing it to generate coherent and contextually relevant text. It has applications in text generation, summarization, and dialogue systems."
+      "desc":"Developed by OpenAI, GPT is a series of transformer-based models capable of generating human-like text. By pre-training on vast amounts of text data, GPT learns to predict the next word in a sequence, allowing it to generate coherent and contextually relevant text. It has applications in text generation, summarization, and dialogue systems.",
+      "bgimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_29704F_A5Tbccj8Q-kKsZ3XaAUFHZebQA&usqp=CAU"
     },
     {
       "id": 3,
       "title": "BERTSUM",
-      "desc":"BERTSUM is an extension of BERT specifically designed for text summarization tasks. It utilizes BERT's encoder to extract salient features from input text and a novel document-level encoder to generate informative summaries. BERTSUM has demonstrated state-of-the-art performance on various summarization benchmarks."
+      "desc":"BERTSUM is an extension of BERT specifically designed for text summarization tasks. It utilizes BERT's encoder to extract salient features from input text and a novel document-level encoder to generate informative summaries. BERTSUM has demonstrated state-of-the-art performance on various summarization benchmarks.",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
       "id": 4,
       "title": "YOLO (You Only Look Once)",
-      "desc":"YOLO is a real-time object detection system that processes images in a single pass through a convolutional neural network (CNN). Unlike traditional object detection methods, YOLO predicts bounding boxes and class probabilities directly from the entire image, making it faster and more efficient. YOLO is widely used in applications such as autonomous driving, surveillance, and robotics."
+      "desc":"YOLO is a real-time object detection system that processes images in a single pass through a convolutional neural network (CNN). Unlike traditional object detection methods, YOLO predicts bounding boxes and class probabilities directly from the entire image, making it faster and more efficient. YOLO is widely used in applications such as autonomous driving, surveillance, and robotics.",
+      "bgimage":"https://miro.medium.com/v2/resize:fit:1149/1*OsiD0Hwcveq6cyJ_C2zssw.png"
     },
     {
       "id": 5,
       "title": "ResNet (Residual Network)",
-      "desc":"ResNet is a deep convolutional neural network architecture designed to address the vanishing gradient problem in very deep networks. It introduces skip connections, allowing gradients to flow more easily during training. ResNet has achieved state-of-the-art performance in image classification tasks and is widely used for feature extraction and transfer learning."
+      "desc":"ResNet is a deep convolutional neural network architecture designed to address the vanishing gradient problem in very deep networks. It introduces skip connections, allowing gradients to flow more easily during training. ResNet has achieved state-of-the-art performance in image classification tasks and is widely used for feature extraction and transfer learning.",
+      "bgimage":"https://miro.medium.com/v2/resize:fit:810/1*chCna4p3A09VDC5hgLlfHg.png"
     },
     {
       "id": 6,
       "title": "VGG (Visual Geometry Group)",
-      "desc":"VGG is a deep convolutional neural network architecture known for its simplicity and effectiveness. It consists of multiple convolutional layers followed by max-pooling layers, with small convolutional filters (3x3) and a fixed architecture. Despite being surpassed by newer models in terms of performance, VGG remains a popular choice for image classification tasks."
+      "desc":"VGG is a deep convolutional neural network architecture known for its simplicity and effectiveness. It consists of multiple convolutional layers followed by max-pooling layers, with small convolutional filters (3x3) and a fixed architecture. Despite being surpassed by newer models in terms of performance, VGG remains a popular choice for image classification tasks.",
+      "bgimage":"https://pbs.twimg.com/profile_images/1070690612641480704/2g6osniY_400x400.jpg"
     },
     {
       "id": 7,
       "title": "Inception (GoogLeNet)",
-      "desc":"Inception, also known as GoogLeNet, is a deep convolutional neural network architecture developed by Google. It is characterized by its innovative Inception module, which performs parallel convolutions of different filter sizes and concatenates the outputs. This allows the network to capture features at multiple scales efficiently. Inception has been used in various computer vision tasks, including image classification and object detection."
+      "desc":"Inception, also known as GoogLeNet, is a deep convolutional neural network architecture developed by Google. It is characterized by its innovative Inception module, which performs parallel convolutions of different filter sizes and concatenates the outputs. This allows the network to capture features at multiple scales efficiently. Inception has been used in various computer vision tasks, including image classification and object detection.",
+      "bgimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQseKSsPSHO1wEja_OEvhArtjnLderRmFiKKw&usqp=CAU"
     },
     {
       "id": 8,
       "title": "Transformer-XL",
-      "desc":"Transformer-XL is an extension of the transformer architecture designed for processing long sequences. It introduces recurrence mechanisms to capture dependencies beyond a fixed-length context window, enabling it to handle tasks such as text generation and language modeling on longer documents more effectively. Transformer-XL has demonstrated improved performance on tasks requiring long-range context understanding."
+      "desc":"Transformer-XL is an extension of the transformer architecture designed for processing long sequences. It introduces recurrence mechanisms to capture dependencies beyond a fixed-length context window, enabling it to handle tasks such as text generation and language modeling on longer documents more effectively. Transformer-XL has demonstrated improved performance on tasks requiring long-range context understanding.",
+      "bgimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDwnlm-kEneg_c_6wDFDR-ivxApT1wCrxmA&usqp=CAU"
     },
     {
       "id": 9,
       "title": "WaveNet",
-      "desc":"WaveNet is a deep generative model developed by DeepMind for speech synthesis. It models the raw waveform of audio signals directly using dilated causal convolutions, allowing it to generate high-fidelity and natural-sounding speech waveforms. WaveNet has been integrated into various voice assistant systems and text-to-speech applications."
+      "desc":"WaveNet is a deep generative model developed by DeepMind for speech synthesis. It models the raw waveform of audio signals directly using dilated causal convolutions, allowing it to generate high-fidelity and natural-sounding speech waveforms. WaveNet has been integrated into various voice assistant systems and text-to-speech applications.",
+      "bgimage":"https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/ed472f9e-aec6-48fc-a98d-1093b28ae078.png"
     },
     {
       "id": 10,
       "title": "AlphaGo",
-      "desc":"AlphaGo is a deep reinforcement learning model developed by DeepMind that achieved groundbreaking success in playing the board game Go. It combines deep neural networks with Monte Carlo tree search algorithms to evaluate board positions and make optimal moves. AlphaGo's victory over world champion Go player Lee Sedol marked a significant milestone in AI research."
+      "desc":"AlphaGo is a deep reinforcement learning model developed by DeepMind that achieved groundbreaking success in playing the board game Go. It combines deep neural networks with Monte Carlo tree search algorithms to evaluate board positions and make optimal moves. AlphaGo's victory over world champion Go player Lee Sedol marked a significant milestone in AI research.",
+      "bgimage":"https://miro.medium.com/v2/resize:fit:900/0*mK7a7fkAl1OVviL0."
     },
     {
       "id": 11,
       "title": "OpenAI Five",
-      "desc":"OpenAI Five is a team of five neural network-based agents developed by OpenAI for playing the video game Dota 2 at a professional level. Each agent utilizes deep reinforcement learning to learn strategies and collaborate with teammates in real-time. OpenAI Five's performance demonstrates the potential of AI in complex multi-agent environments."
+      "desc":"OpenAI Five is a team of five neural network-based agents developed by OpenAI for playing the video game Dota 2 at a professional level. Each agent utilizes deep reinforcement learning to learn strategies and collaborate with teammates in real-time. OpenAI Five's performance demonstrates the potential of AI in complex multi-agent environments.",
+      "bgimage":"https://venturebeat.com/wp-content/uploads/2019/08/openai-logo-vertical-dimensional-purple-e1588267015132.png?w=1200&strip=all"
     },
     {
       "id": 12,
       "title": "DeepDream",
-      "desc":"DeepDream is a computer vision technique developed by Google that generates visually mesmerizing images by enhancing and amplifying patterns in existing images. It utilizes convolutional neural networks to iteratively modify an input image to emphasize certain features detected by the network. DeepDream has been used for artistic purposes and exploring the inner workings of neural networks."
+      "desc":"DeepDream is a computer vision technique developed by Google that generates visually mesmerizing images by enhancing and amplifying patterns in existing images. It utilizes convolutional neural networks to iteratively modify an input image to emphasize certain features detected by the network. DeepDream has been used for artistic purposes and exploring the inner workings of neural networks.",
+      "bgimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1RDWBnYaMtgGUrLHUJ-Dopqhul5lnPtciw&usqp=CAU"
     },
     {
       "id": 13,
       "title": "Capsule Networks",
-      "desc":"Capsule Networks, proposed by Geoffrey Hinton and his team, are a type of neural network architecture designed to better model hierarchical relationships in data. Unlike traditional neural networks, capsule networks use capsules to represent entities and their various properties, enabling more robust feature learning and better generalization. Capsule networks show promise in tasks such as object recognition and image reconstruction."
+      "desc":"Capsule Networks, proposed by Geoffrey Hinton and his team, are a type of neural network architecture designed to better model hierarchical relationships in data. Unlike traditional neural networks, capsule networks use capsules to represent entities and their various properties, enabling more robust feature learning and better generalization. Capsule networks show promise in tasks such as object recognition and image reconstruction.",
+      "bgimage":"https://8f430952.rocketcdn.me/wp-content/uploads/2020/07/Rohit-2020-07-27.jpg"
     },
     {
       "id": 14,
       "title": "DALL-E",
-      "desc":"DALL-E is a neural network-based model developed by OpenAI capable of generating images from textual descriptions. It leverages a variant of the GPT architecture and a generative adversarial network (GAN) to understand and synthesize images based on textual prompts. DALL-E can generate highly creative and contextually relevant images, showcasing advancements in multimodal AI."
+      "desc":"DALL-E is a neural network-based model developed by OpenAI capable of generating images from textual descriptions. It leverages a variant of the GPT architecture and a generative adversarial network (GAN) to understand and synthesize images based on textual prompts. DALL-E can generate highly creative and contextually relevant images, showcasing advancements in multimodal AI.",
+      "bgimage":"https://freelogopng.com/images/all_img/1683823615white-dall-e-logo-png.png"
     },
     {
       "id": 15,
       "title": "BERT-based Question Answering",
-      "desc":"Leveraging BERT's language understanding capabilities, BERT-based question answering models can provide accurate answers to natural language questions given a context. These models are fine-tuned on question-answer pairs and utilize BERT's ability to encode contextual information to locate relevant passages and extract answers. They have applications in information retrieval, virtual assistants, and search engines"
+      "desc":"Leveraging BERT's language understanding capabilities, BERT-based question answering models can provide accurate answers to natural language questions given a context. These models are fine-tuned on question-answer pairs and utilize BERT's ability to encode contextual information to locate relevant passages and extract answers. They have applications in information retrieval, virtual assistants, and search engines",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
       "id": 16,
       "title": "FastText",
-      "desc":"FastText is a library developed by Facebook Research for efficient text classification and representation learning. It uses a variant of the skip-gram model to learn word embeddings and represents text documents as the average of their constituent word vectors. FastText is known for its speed and scalability, making it suitable for large-scale text classification tasks and applications with limited computational resources."
+      "desc":"FastText is a library developed by Facebook Research for efficient text classification and representation learning. It uses a variant of the skip-gram model to learn word embeddings and represents text documents as the average of their constituent word vectors. FastText is known for its speed and scalability, making it suitable for large-scale text classification tasks and applications with limited computational resources.",
+      "bgimage":"https://buzz-prod-photos.global.ssl.fastly.net/img/87a50dce-a64d-4747-b152-30f2f13e80ef"
     },
     {
       "id": 17,
       "title": "BERT-based Named Entity Recognition (NER)",
-      "desc":"BERT-based NER models aim to identify and classify named entities such as names, organizations, and locations in text data. By fine-tuning BERT on annotated NER datasets, these models learn to recognize entities and their types within the context of a given sentence. BERT's contextual embeddings enable more accurate and context-aware entity recognition, benefiting applications like information extraction and text understanding."
+      "desc":"BERT-based NER models aim to identify and classify named entities such as names, organizations, and locations in text data. By fine-tuning BERT on annotated NER datasets, these models learn to recognize entities and their types within the context of a given sentence. BERT's contextual embeddings enable more accurate and context-aware entity recognition, benefiting applications like information extraction and text understanding.",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     },
     {
       "id": 18,
       "title": "VQ-VAE (Vector Quantized Variational Autoencoder)",
-      "desc":"VQ-VAE is a generative model architecture that combines elements of variational autoencoders (VAEs) and vector quantization. It learns to encode input data into discrete latent representations, which are then decoded back into the original data space. VQ-VAE has been used for tasks such as image generation, speech synthesis, and data compression, offering improved sample quality and compression efficiency compared to traditional autoencoders."
+      "desc":"VQ-VAE is a generative model architecture that combines elements of variational autoencoders (VAEs) and vector quantization. It learns to encode input data into discrete latent representations, which are then decoded back into the original data space. VQ-VAE has been used for tasks such as image generation, speech synthesis, and data compression, offering improved sample quality and compression efficiency compared to traditional autoencoders.",
+      "bgimage":"https://crayondata.ai/wp-content/uploads/2023/12/MicrosoftTeams-image-107.jpg"
     },
     {
       "id": 19,
       "title": "SqueezeNet",
-      "desc":"SqueezeNet is a lightweight convolutional neural network architecture designed for efficient inference on resource-constrained devices such as mobile phones and embedded systems. It achieves a balance between model size and accuracy by employing various compression techniques, including aggressive downsampling and 1x1 convolutions. SqueezeNet is widely used in applications requiring real-time image analysis and classification on edge devices."
+      "desc":"SqueezeNet is a lightweight convolutional neural network architecture designed for efficient inference on resource-constrained devices such as mobile phones and embedded systems. It achieves a balance between model size and accuracy by employing various compression techniques, including aggressive downsampling and 1x1 convolutions. SqueezeNet is widely used in applications requiring real-time image analysis and classification on edge devices.",
+      "bgimage":"https://idiotdeveloper.com/wp-content/uploads/2021/12/Squeeze-Excitation-Network.png"
     },
     {
       "id": 20,
       "title": "BERT-based Sentiment Analysis",
-      "desc":"BERT-based sentiment analysis models aim to classify the sentiment expressed in textual content as positive, negative, or neutral. By fine-tuning BERT on sentiment-labeled datasets, these models learn to capture the nuanced relationships between words and their contextual polarity. BERT's contextual embeddings enable more accurate sentiment analysis across diverse domains, benefiting applications like social media monitoring, customer feedback analysis, and market research."
+      "desc":"BERT-based sentiment analysis models aim to classify the sentiment expressed in textual content as positive, negative, or neutral. By fine-tuning BERT on sentiment-labeled datasets, these models learn to capture the nuanced relationships between words and their contextual polarity. BERT's contextual embeddings enable more accurate sentiment analysis across diverse domains, benefiting applications like social media monitoring, customer feedback analysis, and market research.",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
     }
   ],
   "profile": {
