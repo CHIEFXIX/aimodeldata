@@ -99,7 +99,7 @@
       "id": 20,
       "title": "BERT-based Sentiment Analysis",
       "desc":"BERT-based sentiment analysis models aim to classify the sentiment expressed in textual content as positive, negative, or neutral. By fine-tuning BERT on sentiment-labeled datasets, these models learn to capture the nuanced relationships between words and their contextual polarity. BERT's contextual embeddings enable more accurate sentiment analysis across diverse domains, benefiting applications like social media monitoring, customer feedback analysis, and market research."
-    },
+    }
   ],
   "profile": {
     "name": "chiefxix"
