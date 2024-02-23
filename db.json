@@ -1,17 +1,17 @@
 {
   "models": [
     {
-      "id"= 1,
+      "id":1,
       "name":"model1",
       "desc": "model1 desc"
     },
     {
-      "id"= 2,
+      "id": 2,
       "name":"model2",
       "desc": "model2 desc"
     },
     {
-      "id"= 3,
+      "id": 3,
       "name":"model3",
       "desc": "model3 desc"
     }
