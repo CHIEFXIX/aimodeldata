@@ -14,9 +14,9 @@
     },
     {
       "id": 3,
-      "title": "BERTSUM",
-      "desc":"BERTSUM is an extension of BERT specifically designed for text summarization tasks. It utilizes BERT's encoder to extract salient features from input text and a novel document-level encoder to generate informative summaries.",
-      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg"
+      "title": "DALL-E",
+      "desc":"DALL-E is a neural network-based model developed by OpenAI capable of generating images from textual descriptions. It leverages a variant of the GPT architecture and a generative adversarial network (GAN) to understand and synthesize images based on textual prompts. DALL-E can generate highly creative and contextually relevant images, showcasing advancements in multimodal AI.",
+      "bgimage":"https://freelogopng.com/images/all_img/1683823615white-dall-e-logo-png.png"
     },
     {
       "id": 4,
@@ -80,9 +80,9 @@
     },
     {
       "id": 14,
-      "title": "DALL-E",
-      "desc":"DALL-E is a neural network-based model developed by OpenAI capable of generating images from textual descriptions. It leverages a variant of the GPT architecture and a generative adversarial network (GAN) to understand and synthesize images based on textual prompts. DALL-E can generate highly creative and contextually relevant images, showcasing advancements in multimodal AI.",
-      "bgimage":"https://freelogopng.com/images/all_img/1683823615white-dall-e-logo-png.png"
+      "title": "BERTSUM ",
+      "desc":"BERTSUM is an extension of BERT specifically designed for text summarization tasks. It utilizes BERT's encoder to extract salient features from input text and a novel document-level encoder to generate informative summaries.",
+      "bgimage":"https://aip.media/wp-content/uploads/2019/11/Google_BERT_v1.jpg "
     },
     {
       "id": 15,
